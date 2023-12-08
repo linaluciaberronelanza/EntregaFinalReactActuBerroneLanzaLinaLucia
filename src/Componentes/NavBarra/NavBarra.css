@@ -1,0 +1,7 @@
+.navBarraItem:hover {
+    transform: scale(0.85);
+}
+
+.navBarraItem {
+    margin-right: 10px;
+}

@@ -1,0 +1,14 @@
+.imgCarrito {
+    width: 50px;
+    text-decoration: none;
+}
+
+.shoppingCart {
+    margin-left: 50px;
+}
+
+.cartTexto {
+    text-decoration: none;
+    color: #3a3636;
+    text-transform: uppercase;
+}
